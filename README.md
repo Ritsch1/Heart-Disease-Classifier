@@ -23,5 +23,10 @@ look into the [jupyter notebook](https://github.com/Ritsch1/Heart-Disease-Classi
 
 **Previews**
 
-The following scatter plot shows the relation between the age and the maximal heart rate of a patient.
-<img src="plots/ratio_age_maxHeartRate.png" height="200" width="500">
+* This scatter plot shows the relation between the age and the maximal heart rate of a patient.
+
+<img src="plots/ratio_age_maxHeartRate.png" height="300" width="650">
+
+* This correlation - matrix shows the correlation of the medical features of a patient and his diagnosis.
+
+<img src="plots/correlation_matrix_features.png" height="400" width="550">
