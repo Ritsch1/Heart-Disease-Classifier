@@ -11,7 +11,9 @@ The tools used within the jupyter notebook are:
 
 ## Data
 
-The data I will be using is from https://www.kaggle.com/ronitf/heart-disease-uci[kaggle]. 
-The original dataset from the https://archive.ics.uci.edu/ml/datasets/heart+Disease[Cleveland] database contained way more than 14 features.
+TThe data I will be using is from [kaggle](https://www.kaggle.com/ronitf/heart-disease-uci).
+The original dataset from the [Cleveland database](https://archive.ics.uci.edu/ml/datasets/heart+Disease) contained way more than 14 features.
 
-For more details please look into the https://github.com/Ritsch1/Heart-Disease-Classifier/blob/development/notebooks/Heart-Disease-Classification.ipynb[jupyter notebook] or into the https://github.com/Ritsch1/Heart-Disease-Classifier/tree/development/data[data] folder.
+For more details please look into the [jupyter notebook](https://github.com/Ritsch1/Heart-Disease-Classifier/blob/development/notebooks/Heart-Disease-Classification.ipynb) or into the [data](https://github.com/Ritsch1/Heart-Disease-Classifier/tree/development/data) folder.
+
+## Preview - Graphical insights from the dataset 
