@@ -17,3 +17,11 @@ The original dataset from the [Cleveland database](https://archive.ics.uci.edu/m
 For more details please look into the [jupyter notebook](https://github.com/Ritsch1/Heart-Disease-Classifier/blob/development/notebooks/Heart-Disease-Classification.ipynb) or into the [data](https://github.com/Ritsch1/Heart-Disease-Classifier/tree/development/data) folder.
 
 ## Preview - Graphical insights from the dataset 
+
+At this point I share some of the insights the EDA revealed. For further graphical insights please 
+look into the [jupyter notebook](https://github.com/Ritsch1/Heart-Disease-Classifier/blob/development/notebooks/Heart-Disease-Classification.ipynb) or into the [plots](https://github.com/Ritsch1/Heart-Disease-Classifier/tree/development/plots) folder.
+
+**Previews**
+
+The following scatter plot shows the relation between the age and the maximal heart rate of a patient.
+![Ratio between age and max heart rate of patient](https://github.com/Ritsch1/Heart-Disease-Classifier/tree/development/plots/ratio_age_maxHeartRate.png)
