@@ -24,4 +24,4 @@ look into the [jupyter notebook](https://github.com/Ritsch1/Heart-Disease-Classi
 **Previews**
 
 The following scatter plot shows the relation between the age and the maximal heart rate of a patient.
-![Ratio between age and max heart rate of patient](https://github.com/Ritsch1/Heart-Disease-Classifier/tree/development/plots/ratio_age_maxHeartRate.png)
+<img src="plots/ratio_age_maxHeartRate.png" height="200" width="500">
