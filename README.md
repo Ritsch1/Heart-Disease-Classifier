@@ -6,6 +6,7 @@ Building a machine learning binary-classification model to predict whether or no
 * [Tools used](#tools)
 * [Data used](#data)
 * [Preview graphical insights](#preview-graphical-insights-from-the-dataset)
+* [Work with the project](#work-with-the-project)
 
 ## Tools
 The tools used in this project are:
@@ -60,7 +61,7 @@ Each of those commands will create the environment within an env-folder relative
 
 `conda activate path/to/your/environment/folder`
 
-If succesfull, the base - prompt should change to your environment-path.
+If successfull, the base - prompt should change to your environment-path.
 
 4. Then you can run `jupyter notebook` from within the anaconda prompt which should open a jupyter dashboard in your default-browser.
 
