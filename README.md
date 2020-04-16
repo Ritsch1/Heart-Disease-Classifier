@@ -8,12 +8,13 @@ Building a machine learning binary-classification model to predict whether or no
 * [Preview graphical insights](#preview-graphical-insights-from-the-dataset)
 
 ## Tools
-The tools used within the jupyter notebook are:
+The tools used in this project are:
 
 * numpy
 * pandas
 * matplotlib
 * scikit-learn
+* Jupyter
 
 ## Data
 
@@ -36,3 +37,31 @@ look into the [jupyter notebook](https://github.com/Ritsch1/Heart-Disease-Classi
 * This correlation - matrix shows the correlation of the medical features of a patient and his diagnosis.
 
 <img src="plots/correlation_matrix_features.png" height="400" width="550">
+
+## Work with the project
+
+The [environment.yml](https://github.com/Ritsch1/Heart-Disease-Classifier/blob/development/environment.yml) contains the 
+conda environment(the tools) being used in this project. 
+There are several ways to build the environment in order to work with the notebook in this project.
+
+1. From scratch:
+* `conda create --prefix ./env pandas numpy matplotlib scikit-learn jupyter`
+
+1. From environment.yml file:
+* `conda env create --prefix -f ./env -f Path/to/yaml/file`
+
+Each of those commands will create the environment within an env-folder relative to your current directory.
+
+2. When you have successfully created your environment folder you can list all your environments with:
+
+`conda env list`
+
+3. You then have to activate the environment using:
+
+`conda activate path/to/your/environment/folder`
+
+If succesfull, the base - prompt should change to your environment-path.
+
+4. Then you can run `jupyter notebook` from within the anaconda prompt which should open a jupyter dashboard in your default-browser.
+
+From that you can open the jupyter notebook and work with it.
