@@ -1,6 +1,12 @@
 # Heart-Disease-Classifier
 Building a machine learning binary-classification model to predict whether or not a patient has heart-disease.
 
+## Content
+
+* [Tools used](#tools)
+* [Data used](#data)
+* [Preview graphical insights](#preview-graphical-insights-from-the-dataset)
+
 ## Tools
 The tools used within the jupyter notebook are:
 
@@ -16,7 +22,7 @@ The original dataset from the [Cleveland database](https://archive.ics.uci.edu/m
 
 For more details please look into the [jupyter notebook](https://github.com/Ritsch1/Heart-Disease-Classifier/blob/development/notebooks/Heart-Disease-Classification.ipynb) or into the [data](https://github.com/Ritsch1/Heart-Disease-Classifier/tree/development/data) folder.
 
-## Preview - Graphical insights from the dataset 
+## Preview: Graphical insights from the dataset 
 
 At this point I share some of the insights the EDA revealed. For further graphical insights please 
 look into the [jupyter notebook](https://github.com/Ritsch1/Heart-Disease-Classifier/blob/development/notebooks/Heart-Disease-Classification.ipynb) or into the [plots](https://github.com/Ritsch1/Heart-Disease-Classifier/tree/development/plots) folder.
