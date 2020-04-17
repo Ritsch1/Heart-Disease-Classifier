@@ -7,6 +7,7 @@ Building a machine learning binary-classification model to predict whether or no
 * [Data used](#data)
 * [Preview graphical insights](#preview-graphical-insights-from-the-dataset)
 * [Work with the project](#work-with-the-project)
+* [Use the model](#use-the-model)
 
 ## Tools
 The tools used in this project are:
@@ -66,3 +67,10 @@ If successfull, the base - prompt should change to your environment-path.
 4. Then you can run `jupyter notebook` from within the anaconda prompt which should open a jupyter dashboard in your default-browser.
 
 From that you can open the jupyter notebook and work with it.
+
+## Use the model
+
+The model trained in this project is saved in the [model folder](https://github.com/Ritsch1/Heart-Disease-Classifier/blob/development/model) as a binary object.
+
+It was saved as a binary with the [pickle library](https://docs.python.org/3/library/pickle.html).
+If you want to use the model for predictions on it's own, it would be best to use the `pickle` method `load` for it.
